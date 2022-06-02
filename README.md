@@ -6,7 +6,7 @@ Notes concernant l'écriture en markdown d'une ressource en ligne libre.
 * Markdown
   * [Readme.md](https://github.com/tim-montmorency/rel-markdown/blob/main/README.md)
 * HTML (présentation)
-  * [./index.html]
+  * [index.html](./index.html)
 * PDF
   * [test.pdf](./test.pdf)
 
