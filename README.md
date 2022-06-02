@@ -1,14 +1,14 @@
 # rel-markdown
-## Écrire une fois; présenter et publier n'importe où 
+## Rédiger, présenter, publier, itérer
 Notes concernant l'écriture en markdown d'une ressource en ligne libre.
 
 
 * Markdown
-  * [](https://github.com/tim-montmorency/rel-markdown/blob/main/README.md)
-* HTML (reveal)
-  * []
+  * [Readme.md](https://github.com/tim-montmorency/rel-markdown/blob/main/README.md)
+* HTML (présentation)
+  * [./index.html]
 * PDF
-  * []
+  * [test.pdf](./test.pdf)
 
 
 ## Outils d'édition d'image 
@@ -146,3 +146,13 @@ git submodule add https://github.com/hakimel/reveal.js revealjs
 * https://amelon.org/2018/03/13/md-reference.html
 
 
+
+## Hébergement / Mise en ligne
+
+
+### Github 
+#### Github pages
+
+![Publier via github pages](medias/publier.drawio.svg)
+
+[https://tim-montmorency.com/rel-markdown/](https://tim-montmorency.com/rel-markdown/)
